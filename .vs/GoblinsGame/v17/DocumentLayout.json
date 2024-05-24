@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UVT\\An3 Sem 2\\GIU\\FullGame\\GoblinsGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2481F6C8-CCCC-274D-D5D7-4A68D5CF2556}|Assembly-CSharp.csproj|e:\\uvt\\an3 sem 2\\giu\\fullgame\\goblinsgame\\assets\\npc_barbat1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2481F6C8-CCCC-274D-D5D7-4A68D5CF2556}|Assembly-CSharp.csproj|solutionrelative:assets\\npc_barbat1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2481F6C8-CCCC-274D-D5D7-4A68D5CF2556}|Assembly-CSharp.csproj|e:\\uvt\\an3 sem 2\\giu\\fullgame\\goblinsgame\\assets\\npc\\arheolog\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2481F6C8-CCCC-274D-D5D7-4A68D5CF2556}|Assembly-CSharp.csproj|solutionrelative:assets\\npc\\arheolog\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2481F6C8-CCCC-274D-D5D7-4A68D5CF2556}|Assembly-CSharp.csproj|E:\\UVT\\An3 Sem 2\\GIU\\FullGame\\GoblinsGame\\assets\\scripts\\selectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2481F6C8-CCCC-274D-D5D7-4A68D5CF2556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2481F6C8-CCCC-274D-D5D7-4A68D5CF2556}|Assembly-CSharp.csproj|e:\\uvt\\an3 sem 2\\giu\\fullgame\\goblinsgame\\assets\\scripts\\popupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2481F6C8-CCCC-274D-D5D7-4A68D5CF2556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\popupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2481F6C8-CCCC-274D-D5D7-4A68D5CF2556}|Assembly-CSharp.csproj|E:\\UVT\\An3 Sem 2\\GIU\\FullGame\\GoblinsGame\\assets\\npc_vanzator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2481F6C8-CCCC-274D-D5D7-4A68D5CF2556}|Assembly-CSharp.csproj|solutionrelative:assets\\npc_vanzator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2481F6C8-CCCC-274D-D5D7-4A68D5CF2556}|Assembly-CSharp.csproj|e:\\uvt\\an3 sem 2\\giu\\fullgame\\goblinsgame\\assets\\scripts\\popup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2481F6C8-CCCC-274D-D5D7-4A68D5CF2556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\popup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2481F6C8-CCCC-274D-D5D7-4A68D5CF2556}|Assembly-CSharp.csproj|E:\\UVT\\An3 Sem 2\\GIU\\FullGame\\GoblinsGame\\assets\\npc_primar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2481F6C8-CCCC-274D-D5D7-4A68D5CF2556}|Assembly-CSharp.csproj|solutionrelative:assets\\npc_primar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2481F6C8-CCCC-274D-D5D7-4A68D5CF2556}|Assembly-CSharp.csproj|E:\\UVT\\An3 Sem 2\\GIU\\FullGame\\GoblinsGame\\assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2481F6C8-CCCC-274D-D5D7-4A68D5CF2556}|Assembly-CSharp.csproj|solutionrelative:assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2481F6C8-CCCC-274D-D5D7-4A68D5CF2556}|Assembly-CSharp.csproj|E:\\UVT\\An3 Sem 2\\GIU\\FullGame\\GoblinsGame\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2481F6C8-CCCC-274D-D5D7-4A68D5CF2556}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2481F6C8-CCCC-274D-D5D7-4A68D5CF2556}|Assembly-CSharp.csproj|E:\\UVT\\An3 Sem 2\\GIU\\FullGame\\GoblinsGame\\assets\\nefertiti_ending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2481F6C8-CCCC-274D-D5D7-4A68D5CF2556}|Assembly-CSharp.csproj|solutionrelative:assets\\nefertiti_ending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NPC_Barbat1.cs",
+              "DocumentMoniker": "E:\\UVT\\An3 Sem 2\\GIU\\FullGame\\GoblinsGame\\Assets\\NPC_Barbat1.cs",
+              "RelativeDocumentMoniker": "Assets\\NPC_Barbat1.cs",
+              "ToolTip": "E:\\UVT\\An3 Sem 2\\GIU\\FullGame\\GoblinsGame\\Assets\\NPC_Barbat1.cs",
+              "RelativeToolTip": "Assets\\NPC_Barbat1.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowD8AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:53:34.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NPC.cs",
+              "DocumentMoniker": "E:\\UVT\\An3 Sem 2\\GIU\\FullGame\\GoblinsGame\\Assets\\NPC\\Arheolog\\NPC.cs",
+              "RelativeDocumentMoniker": "Assets\\NPC\\Arheolog\\NPC.cs",
+              "ToolTip": "E:\\UVT\\An3 Sem 2\\GIU\\FullGame\\GoblinsGame\\Assets\\NPC\\Arheolog\\NPC.cs",
+              "RelativeToolTip": "Assets\\NPC\\Arheolog\\NPC.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowEAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:48:45.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PopUpManager.cs",
+              "DocumentMoniker": "E:\\UVT\\An3 Sem 2\\GIU\\FullGame\\GoblinsGame\\Assets\\Scripts\\PopUpManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PopUpManager.cs",
+              "ToolTip": "E:\\UVT\\An3 Sem 2\\GIU\\FullGame\\GoblinsGame\\Assets\\Scripts\\PopUpManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PopUpManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:03:31.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PopUp.cs",
+              "DocumentMoniker": "E:\\UVT\\An3 Sem 2\\GIU\\FullGame\\GoblinsGame\\Assets\\Scripts\\PopUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PopUp.cs",
+              "ToolTip": "E:\\UVT\\An3 Sem 2\\GIU\\FullGame\\GoblinsGame\\Assets\\Scripts\\PopUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PopUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:59:00.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "E:\\UVT\\An3 Sem 2\\GIU\\FullGame\\GoblinsGame\\Assets\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameManager.cs",
+              "ToolTip": "E:\\UVT\\An3 Sem 2\\GIU\\FullGame\\GoblinsGame\\Assets\\GameManager.cs",
+              "RelativeToolTip": "Assets\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:38:52.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NPC_Vanzator.cs",
+              "DocumentMoniker": "E:\\UVT\\An3 Sem 2\\GIU\\FullGame\\GoblinsGame\\Assets\\NPC_Vanzator.cs",
+              "RelativeDocumentMoniker": "Assets\\NPC_Vanzator.cs",
+              "ToolTip": "E:\\UVT\\An3 Sem 2\\GIU\\FullGame\\GoblinsGame\\Assets\\NPC_Vanzator.cs",
+              "RelativeToolTip": "Assets\\NPC_Vanzator.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowDoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:35:19.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NPC_Primar.cs",
+              "DocumentMoniker": "E:\\UVT\\An3 Sem 2\\GIU\\FullGame\\GoblinsGame\\Assets\\NPC_Primar.cs",
+              "RelativeDocumentMoniker": "Assets\\NPC_Primar.cs",
+              "ToolTip": "E:\\UVT\\An3 Sem 2\\GIU\\FullGame\\GoblinsGame\\Assets\\NPC_Primar.cs",
+              "RelativeToolTip": "Assets\\NPC_Primar.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowEAAAACbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:35:13.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "E:\\UVT\\An3 Sem 2\\GIU\\FullGame\\GoblinsGame\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "E:\\UVT\\An3 Sem 2\\GIU\\FullGame\\GoblinsGame\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:23:52.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Nefertiti_Ending.cs",
+              "DocumentMoniker": "E:\\UVT\\An3 Sem 2\\GIU\\FullGame\\GoblinsGame\\Assets\\Nefertiti_Ending.cs",
+              "RelativeDocumentMoniker": "Assets\\Nefertiti_Ending.cs",
+              "ToolTip": "E:\\UVT\\An3 Sem 2\\GIU\\FullGame\\GoblinsGame\\Assets\\Nefertiti_Ending.cs",
+              "RelativeToolTip": "Assets\\Nefertiti_Ending.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:05:28.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SelectionManager.cs",
+              "DocumentMoniker": "E:\\UVT\\An3 Sem 2\\GIU\\FullGame\\GoblinsGame\\Assets\\Scripts\\SelectionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SelectionManager.cs",
+              "ToolTip": "E:\\UVT\\An3 Sem 2\\GIU\\FullGame\\GoblinsGame\\Assets\\Scripts\\SelectionManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SelectionManager.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAcwJkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:16:46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
